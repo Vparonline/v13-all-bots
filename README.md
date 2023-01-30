@@ -1,2 +1,10 @@
 # v13-all-bost
 v14'e geçmeme ufak zaman kala bitirdiğim http://thesellix.site/ e bağlanılabilen scriptli web panel botlarım
+Ufak ss: ![image](https://user-images.githubusercontent.com/74346832/215491482-16ba9d0b-bc64-4149-9914-672b58064445.png)
+![image](https://user-images.githubusercontent.com/74346832/215491998-0c77b8e7-331f-44fc-81cc-425b4191ab21.png)
+![image](https://user-images.githubusercontent.com/74346832/215492039-6887c884-2eb4-4e78-b7a1-6f42cc7c4748.png)
+![image](https://user-images.githubusercontent.com/74346832/215492170-02c05d05-4ddb-4a59-a18f-5d7b9bd2366e.png)
+![image](https://user-images.githubusercontent.com/74346832/215492275-1a7f4a4f-fed7-4147-8c6d-5d4219ca240e.png)
+![image](https://user-images.githubusercontent.com/74346832/215492483-01db8ee0-ec7d-49bc-b931-edb3e8dd62a1.png)
+![image](https://user-images.githubusercontent.com/74346832/215492511-1b8ecd99-0f58-4aab-926c-f5b3cf0dd247.png)
+![image](https://user-images.githubusercontent.com/74346832/215492532-19a01c34-3138-44e6-9e7c-21b5223aa1fa.png)
