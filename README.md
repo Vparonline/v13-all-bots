@@ -6,3 +6,5 @@ Ufak ss: ![image](https://user-images.githubusercontent.com/74346832/215491482-1
 ![image](https://user-images.githubusercontent.com/74346832/215492039-6887c884-2eb4-4e78-b7a1-6f42cc7c4748.png)
 ![image](https://user-images.githubusercontent.com/74346832/215492170-02c05d05-4ddb-4a59-a18f-5d7b9bd2366e.png)
 ![image](https://user-images.githubusercontent.com/74346832/215492275-1a7f4a4f-fed7-4147-8c6d-5d4219ca240e.png)
+![image](https://user-images.githubusercontent.com/74346832/215497425-f846e5e2-dfa0-4788-91a6-6efc878fe5a6.png)
+
