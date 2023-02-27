@@ -41,7 +41,7 @@ app.use('/', index);
 
 
 app.use((req, res, next) => {
-  const err = new Error('File Not Found');
+  const err = new Error('Dosya Bulunamadı!');
   err.status = 404;
   next(err);
 });
